@@ -9,7 +9,7 @@ const execPath = 'test';
 const compile = `g++ ${filePath} -o ${execPath}`;
 const exectimeout = 30000;
 
-const sgAPIKEY = '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';
+const sgAPIKEY = 'yoursgAPIKEY';
 sgMail.setApiKey(sgAPIKEY);
 
 function mail() {
