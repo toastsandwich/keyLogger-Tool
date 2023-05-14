@@ -10,7 +10,7 @@ This version requires victim to already have nodeJs and Mingw compiler already i
 The next version of code will contain more features stay tuned.
 
 # 💾 guide :
-1. set-Up your sendGrid mail and just pust your key and mails in app.js.
+1. set-Up your sendGrid mail and just pust your key and mails in app.js. For setUp go the sednGrid website.
 2. open powershell.
 3. run command "./dumpScript.bat" , with this your files are copied to C drive of victim. change the locations in dumpScript.bat (use destination file as C:/temp/dumpStack or C:/system/sys64)
 4. Put the sendGrid APIKEY and your emails at the placeholder in app.js.
