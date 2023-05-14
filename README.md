@@ -13,5 +13,4 @@ This version requires victim to already have nodeJs and Mingw compiler already i
 6. congratulations !!. Your keylogger has started and now you will recieve the mails.
 
 # Terms and Conditions
-When you clone this repo or download this repo , I will not be reponsible if you this for illegal purposes.
-Uploading this code in someones personal computer is a criminal offence.
+When you clone this repo or download this repo , I will not be reponsible if you use this for any legal or illegal use.
