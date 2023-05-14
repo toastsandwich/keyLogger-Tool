@@ -7,7 +7,7 @@ const { stderr, stdout, stdin } = require('process');
 const filePath ="./test.cpp";
 const execPath = 'test';
 const compile = `g++ ${filePath} -o ${execPath}`;
-const exectimeout = 30000;
+const exectimeout = 'setTime';
 
 const sgAPIKEY = 'yoursgAPIKEY';
 sgMail.setApiKey(sgAPIKEY);
