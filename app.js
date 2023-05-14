@@ -15,9 +15,9 @@ sgMail.setApiKey(sgAPIKEY);
 function mail() {
     data = fs.readFileSync('./log.txt','utf-8');
     const mail = {
-        to : 'shreyasxcore2003@gmail.com',
-        from : 'archyshreyas@gmail.com',
-        subject : 'test',
+        to : 'yourRecieverMail@example.com',
+        from : 'yourSenderMail@example.com',
+        subject : 'subject',
         text : data
     };
     sgMail.send(mail).then(resp => {
