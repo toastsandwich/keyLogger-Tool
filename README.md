@@ -1,5 +1,5 @@
 # ⌨️ keyLogger-Tool
-This tool will help you to mointer keystores of your victim and send you the log file via email
+This tool will help you to monitor keystores of your victim and send you the log file via email
 
 # ⭐ About :
 1. The keylogger is created using c++ which will track your keyboard strokes and write it to log.txt file.
