@@ -1,7 +1,7 @@
 @echo off
 
-set "sourcePath=G:\keylogger"  
-set "destinationPath=C:\testFolder\" 
+set "sourcePath = locationOfKeylogger"  
+set "destinationPath = whereToCopy" 
 xcopy "%sourcePath%" "%destinationPath%" /E /I /Y
 
 echo dumping success!
